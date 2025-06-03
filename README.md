@@ -44,7 +44,7 @@ El polimorfismo permite que distintas clases respondan de forma diferente a la m
 
 **Janina Jumbo**  
 Curso: Técnicas de Programación  
-Universidad: Universidad Estatal Amazónica
+Universidad: Estatal Amazónica
 
 ---
 
