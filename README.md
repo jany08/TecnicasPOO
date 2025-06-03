@@ -58,4 +58,4 @@ Universidad: Universidad Estatal Amazónica
 
 ## 📎 Enlace del repositorio
 
-🔗 https://github.com/**Jany08**/TecnicasPOO
+🔗 https://github.com/jany08/TecnicasPOO/commits?author=jany08
